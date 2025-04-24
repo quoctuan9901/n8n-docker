@@ -6,7 +6,7 @@ docker compose --profile cpu up
 
 Cho phép n8n chạy với ngrok
 ```bash
-ngrok http --url=polite-working-kitten.ngrok-free.app 5678
+ngrok http --url=xxxxxxxx.ngrok-free.app 5678      # Copy url from ngrok
 ```
 
 Thêm webhook vào docker-composer.yml
